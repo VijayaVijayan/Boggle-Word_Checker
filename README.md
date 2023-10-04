@@ -43,9 +43,7 @@ testBoard = [
 
 
 
-## Contributing:-
 
-    > Contributions are welcome! If you find any issues or want to add enhancements to the script, feel free to create a pull request.
 
 
 
