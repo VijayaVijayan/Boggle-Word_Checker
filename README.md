@@ -41,7 +41,9 @@ testBoard = [
     test.assert_equals( find_word(testBoard, "CEREAL"          ), False , "Test for CEREAL")
     test.assert_equals( find_word(testBoard, "ROBES"           ), False , "Test for ROBES")
 
-# Contributing:-
+
+
+## Contributing:-
 
     > Contributions are welcome! If you find any issues or want to add enhancements to the script, feel free to create a pull request.
 
